@@ -17,7 +17,7 @@ write.csv(as.data.frame(rotaciones), 'ROTACIONES_MiTierra.csv', row.names = TRUE
 library(gtools)
 
 #v <- c(sapply(1:11, function(x) paste('c', x, sep='')))
-v <- c('Trident Menta 4s',
+v <- c('Trident Menta 4s'
        )
 #  d <- sample(1:11,5,replace =F)
 #  d <- sample(1:4 , replace =F)
@@ -34,3 +34,5 @@ for(j in 1:200){
 write.csv(as.data.frame(matriz), 'VP.csv', row.names = TRUE)
 as.data.frame(sample(1:50), replace = TRUE)
 #---------------------------------Este es un nuevo cofigo-------------------------
+
+#Este es un nuevo cambio pero en otra maquina
