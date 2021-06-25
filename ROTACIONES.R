@@ -33,3 +33,4 @@ for(j in 1:200){
 
 write.csv(as.data.frame(matriz), 'VP.csv', row.names = TRUE)
 as.data.frame(sample(1:50), replace = TRUE)
+#---------------------------------Este es un nuevo cofigo-------------------------
