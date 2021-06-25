@@ -18,20 +18,7 @@ library(gtools)
 
 #v <- c(sapply(1:11, function(x) paste('c', x, sep='')))
 v <- c('Trident Menta 4s',
-       'Orbit Menta 4s',
-       'Clorets Plus 4s',
-       'Orbit Polar Mint 4s',
-       'Halls Miel tubo 9 piezas',
-       'Mentos Tubo 6 piezas',
-       'Philadelphia 180 gr',
-       'LALA 190 gr',
-       'Oreo 10 piezas',
-       'Emperador chocolate 10 piezas',
-       'Ritz rollo individual 89 gr ',
-       'Crackets rollo individual 95 gr',
-       'Tang naranja 14 gr',
-       'Zuko naranja 15 gr',
-       'Zuko naranja 1 litro')
+       )
 #  d <- sample(1:11,5,replace =F)
 #  d <- sample(1:4 , replace =F)
 
